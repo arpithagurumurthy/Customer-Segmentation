@@ -17,6 +17,8 @@ This project aims at applying concepts including:
 * Experimenting with different data distributions to see how it affects the performance of ML algorithms
 * concepts of CLV and RFM
 
+**Special thank you to my professor Dr. Ali Arsanjani for his guidance.**
+
 
 
 
